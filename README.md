@@ -85,9 +85,9 @@ Ces résultats couvrent les périmètres testés. Ils ne constituent pas une val
 
 Cette vitrine rassemble la présentation du projet. Le code applicatif est conservé dans un dépôt privé.
 
-**[Demander l’accès au code](https://github.com/aymenbouhlel575/mase-showcase/issues/new?template=access-request.yml)**
+**[Demander l’accès au code](https://github.com/aymenbouhlel575/mase-showcase/issues/new/choose)**
 
-Pour une évaluation technique, un recrutement ou une collaboration, remplissez le formulaire avec votre identifiant GitHub et le motif de votre demande. Aymen Bouhlel examine chaque demande et, s’il l’accepte, envoie une invitation au dépôt privé.
+Pour une évaluation technique, un recrutement ou une collaboration, cliquez sur « Demander l’accès au code » dans la liste des formulaires, puis renseignez votre identifiant GitHub et le motif de votre demande. Aymen Bouhlel examine chaque demande et, s’il l’accepte, envoie une invitation au dépôt privé.
 
 Les demandes sont publiques : ne communiquez aucune donnée confidentielle. L’accès reste soumis à une validation manuelle.
 
