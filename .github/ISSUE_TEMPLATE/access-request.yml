@@ -1,0 +1,45 @@
+name: Demander l'accès au code
+description: Soumettre une demande d'accès au dépôt privé MASE.
+title: "[Accès au code] "
+assignees:
+  - aymenbouhlel575
+body:
+  - type: markdown
+    attributes:
+      value: |
+        L'accès au code est accordé manuellement après examen.
+        Cette demande est publique : ne publiez aucun e-mail, mot de passe, jeton ou autre renseignement confidentiel.
+        Une demande ne donne pas automatiquement accès au dépôt.
+  - type: input
+    id: github_username
+    attributes:
+      label: Identifiant GitHub
+      description: Le compte auquel envoyer l'invitation si la demande est acceptée.
+      placeholder: votre-identifiant
+    validations:
+      required: true
+  - type: dropdown
+    id: context
+    attributes:
+      label: Contexte
+      options:
+        - Recrutement
+        - Collaboration technique
+        - Étude ou recherche
+        - Autre
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motif de la demande
+      description: Présentez brièvement votre intérêt pour MASE et l'usage envisagé du code.
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: Validation
+      options:
+        - label: Je comprends que cette demande est publique et que l'accès nécessite l'accord du propriétaire.
+          required: true
