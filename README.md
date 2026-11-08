@@ -1,3 +1,5 @@
+![MASE — Plateforme multi-agents intelligente](docs/images/mase-banner.png)
+
 # MASE
 
 ### Multi-Agent Software Engineering Platform
